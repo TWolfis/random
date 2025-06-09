@@ -30,7 +30,7 @@ This project is licensed under the BSD 3-Clause License. See the [LICENSE](./LIC
 
 ## Installation
 
-To install the tool, clone the repository and run:
+To install the tool, run the following command:
 
 ```bash
 go install github.com/TWolfis/random@latest
